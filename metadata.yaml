@@ -1,0 +1,32 @@
+_repo: The-Epic-of-GilgamishA-Fragment-of-the-Gilgamish-Legend-in-Old-Babylonian-Cuneiform_18897
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langdon, Stephen
+    aliases:
+    - Langdon, S. (Stephen)
+    - Langdon, Stephen Herbert
+    birthdate: 1876
+    deathdate: 1937
+    gutenberg_agent_id: '8322'
+    url: http://www.gutenberg.org/2009/agents/8322
+    wikipedia: http://cdli.ucla.edu/wiki/index.php/Langdon,_Stephen_Herbert
+description: ''
+gutenberg_issued: '2006-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18897'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Epic poetry, Assyro-Babylonian -- Translations into English'
+title: 'The Epic of Gilgamish
+
+  A Fragment of the Gilgamish Legend in Old-Babylonian Cuneiform'
+url: http://www.gutenberg.org/ebooks/18897
