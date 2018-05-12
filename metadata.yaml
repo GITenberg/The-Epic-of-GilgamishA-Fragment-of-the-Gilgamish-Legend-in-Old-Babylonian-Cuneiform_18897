@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8322
     wikipedia: http://cdli.ucla.edu/wiki/index.php/Langdon,_Stephen_Herbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18897#The-Epic-of-GilgamishA-Fragment-of-the-Gilgamish-Legend-in-Old-Babylonian-Cuneiform
 gutenberg_issued: '2006-07-23'
 gutenberg_type: Text
 identifiers:
